@@ -10,7 +10,7 @@ bounty on make.fun.
 
 ## The line
 
-> HR said to bring my whole self to work, so I brought my resignation too.
+> HR told us to bring our whole selves to work, so I brought my resignation too.
 
 ## Run it
 
@@ -20,7 +20,7 @@ cat /output/entry.txt
 ```
 
 The program is deterministic: it writes the same one line on every run.
-The line is 72 characters, one line, plain UTF-8, inside the 1-200 character gate.
+The line is 78 characters, one line, plain UTF-8, inside the 1-200 character gate.
 
 ## License
 
